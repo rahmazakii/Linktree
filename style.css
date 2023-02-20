@@ -46,7 +46,7 @@ body {
     text-align: center;
     background-color: rgb(11, 93, 11);
     bottom: 0;
-    position: fixed;
+    width: 100%;
 }
 
 .footer img {
